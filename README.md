@@ -49,9 +49,6 @@
 
 <div align="center">
 
-
-  <a href="https://github.com/Nunes-01/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nunes-01&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00ff09&hide=html,scss,less&bg_color=000&text_color=ffffff&border_radius=3&border_color=00ff09&count_private=true" alt="Most Used Languages">
   </a>
   <br>
   <picture align="center">
