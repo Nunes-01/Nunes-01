@@ -48,7 +48,8 @@
 #
 
 <div align="center">
-                Comedora de codigo
+                Comedora de codigo <img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/d6f219e4-c7ee-424a-baad-03c1a6a19344" />
+
   </a>
   <br>
   <picture align="center">
