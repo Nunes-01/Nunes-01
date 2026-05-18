@@ -48,7 +48,7 @@
 #
 
 <div align="center">
-                      Olha o Codiguin <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc902512-1542-4591-b140-5ec423755fba" />
+                                    Olha o Codiguin 
 
   </a>
   <br>
