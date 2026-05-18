@@ -48,7 +48,7 @@
 #
 
 <div align="center">
-                Comedora de codigo <img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/d6f219e4-c7ee-424a-baad-03c1a6a19344" />
+                      Olha o Codiguin <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc902512-1542-4591-b140-5ec423755fba" />
 
   </a>
   <br>
